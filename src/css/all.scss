@@ -1,0 +1,16 @@
+
+@tailwind preflight;
+@tailwind components;
+@tailwind utilities;
+
+a {
+  @apply no-underline;
+}
+
+.navbar-item {
+  @apply text-ta-blue;
+}
+
+.m-200 {
+  margin-right: 230px;
+}

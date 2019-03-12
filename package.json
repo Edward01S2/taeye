@@ -46,6 +46,7 @@
   },
   "devDependencies": {
     "prettier": "^1.15.3",
-    "rimraf": "^2.6.2"
+    "rimraf": "^2.6.2",
+    "tailwindcss": "^0.7.4"
   }
 }
